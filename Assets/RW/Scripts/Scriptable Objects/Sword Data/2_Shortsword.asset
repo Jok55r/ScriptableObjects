@@ -3,8 +3,9 @@
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -15,4 +16,4 @@ MonoBehaviour:
   description: Small agile sword
   icon: {fileID: 21300000, guid: 3ab695626ea6663459b922cf9e139427, type: 3}
   goldCost: 150
-  attackDamage: 10
+  attackDamage: -1
